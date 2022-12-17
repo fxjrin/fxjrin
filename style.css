@@ -8,7 +8,7 @@
 
 body
 {
-    background-color: rgb(40, 56, 73);
+    background-color: rgb(44, 54, 65);
 }
 
 header
@@ -17,7 +17,7 @@ header
     top: 0;
     left: 0;
     width: 100%;
-    padding: 30px 100px;
+    padding: 30px 30px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -43,7 +43,7 @@ header ul
 header ul li
 {
     list-style: none;
-    margin-left: 20px;
+    margin-left: 10px;
 }
 
 header ul li a 
