@@ -61,7 +61,7 @@ header ul li a.active
     color: black;
 }
 
-h1
+h1, h3
 {
     color: white;
     margin: 100px;
