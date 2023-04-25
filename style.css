@@ -7,9 +7,8 @@
 
 body {
     display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
     background: #111a21;
+    text-align: center;
 }
 
 header {
@@ -20,7 +19,6 @@ header {
     padding: 30px 30px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
 }
 
 header .logo {
@@ -36,9 +34,9 @@ header .logo {
 .container {
     font-family: arial;
     font-size: 24px;
-    margin: 25px;
-    width: 350px;
-    height: 200px;
+    margin: 25%;
+    width: 50%;
+    height: 50%;
 }
 
 @keyframes floating {
