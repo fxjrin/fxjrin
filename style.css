@@ -81,3 +81,7 @@ header .logo {
 .floating-text span:nth-child(4) {
     animation-delay: 0.4s;
 }
+
+.floating-text span:nth-child(5) {
+    animation-delay: 0.5s;
+}
