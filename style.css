@@ -5,6 +5,11 @@
     font-family: sans-serif;
 }
 
+:root {
+    --color: #ffffff;
+    --background: #2196f3;
+}
+
 body {
     display: flex;
     text-align: center;
@@ -37,11 +42,6 @@ header .logo {
     margin: 25%;
     width: 50%;
     height: 50%;
-}
-
-:root {
-    --color: #ffffff;
-    --background: #2196f3;
 }
 
 h2 {
