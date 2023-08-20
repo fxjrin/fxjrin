@@ -53,8 +53,8 @@ h2 {
     margin-top: -40px;
 
     text-shadow: -1px -1px 0px var(--background),
-        2px 2px 0px var(--background),
-        4px 4px 0px #00000055;
+        1.5px 1.5px 0px var(--background),
+        3px 3px 0px #00000055;
 }
 
 .logo {
